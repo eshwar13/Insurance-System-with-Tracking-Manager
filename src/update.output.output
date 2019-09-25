@@ -1,0 +1,31 @@
+
+
+----------------------Output for Update.java----------
+
+
+
+Want to Update values
+Choose options::
+1)Updating ID
+2)Updating name
+3)Updating Insurance-type
+1
+Enter new ID:
+9542
+Enter your previous ID
+2211
+Updation Completed .
+TO continue Types yes/no 
+yes
+Want to Update values
+Choose options::
+1)Updating ID
+2)Updating name
+3)Updating Insurance-type
+1
+Enter new ID:
+7396
+Enter your previous ID
+9032
+Updation Completed .
+TO continue Types yes/no 

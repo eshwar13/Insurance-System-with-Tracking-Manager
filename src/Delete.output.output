@@ -1,0 +1,26 @@
+
+-----------------------Output for Delete.java--------------
+
+
+Want to delete record
+Enter candidate ID
+3814
+your record is delete
+TO continue yes
+TO view records type --view--
+view
+
+
+ID    Name     Gender    Insuracne-type      Details
+
+
+9542   Ramya    female      Health-Insurance      Mon Sep 23 14:23:38 IST 2019  
+
+
+4492   Ram    Male      motor-Insurance      Mon Sep 23 14:24:36 IST 2019  
+
+
+7396   Rama    female      Health-Insurance      Mon Sep 23 14:25:17 IST 2019  
+
+
+7202   Akhil    male      Motor-Insurance      Mon Sep 23 14:25:52 IST 2019  

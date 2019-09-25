@@ -1,0 +1,13 @@
+ 
+    --------------DATABASE - TAble---------------
+
+
+
+create table Insuranceservice
+(
+id number(10),
+name varchar2(50),
+gender Varchar2(10),
+type varchar2(100),
+Details Varchar2(100)
+);
